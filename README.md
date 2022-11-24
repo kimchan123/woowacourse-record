@@ -54,6 +54,6 @@
 |톰캣 구현|`2022-08-30` ~ `2022-09-13`|[repository](https://github.com/kimchan123/jwp-dashboard-http)|
 |@MVC 프레임워크 구현|`2022-09-16` ~ `2022-09-29`|[repository](https://github.com/kimchan123/jwp-dashboard-mvc)|
 |JDBC 라이브러리 구현|`2022-10-04` ~ `2022-10-14`|[repository](https://github.com/kimchan123/jwp-dashboard-jdbc)|
-|레거시 코드 리팩토링|[repository](https://github.com/kimchan123/jwp-refactoring)|
+|레거시 코드 리팩토링||[repository](https://github.com/kimchan123/jwp-refactoring)|
 
 
